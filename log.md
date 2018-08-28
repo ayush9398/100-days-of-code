@@ -16,7 +16,7 @@
 
 **Today's Progress**: polynomial regression and normal equation 
 
-**Thoughts:** Polynomial regression an normal equation are some new concepts to me. Just theory related part till now, next part involves octave programming.
+**Thoughts:** Just theory related part till now, next part involves octave programming.
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
