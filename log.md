@@ -12,6 +12,12 @@
 
 **Thoughts:** Introduced to Matlab programming and learned about multivariate linear regression, need to work on contour plots more.
 
+### Day 2: August 28, 2018
+
+**Today's Progress**: polynomial regression and normal equation 
+
+**Thoughts:** Polynomial regression an normal equation are some new concepts to me. Just theory related part till now, next part involves octave programming.
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
