@@ -18,6 +18,8 @@
 
 **Thoughts:** Just theory related part till now, next part involves octave programming.
 
+If you want to follow my progress further please redirect to https://twitter.com/ayush9398
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
